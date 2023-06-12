@@ -1,0 +1,25 @@
+[2023-06-11 17:58:26,866] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: my_first_dag.task2 manual__2023-06-11T15:58:23.738072+00:00 [queued]>
+[2023-06-11 17:58:26,869] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: my_first_dag.task2 manual__2023-06-11T15:58:23.738072+00:00 [queued]>
+[2023-06-11 17:58:26,869] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-11 17:58:26,869] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2023-06-11 17:58:26,869] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-11 17:58:26,873] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): task2> on 2023-06-11 15:58:23.738072+00:00
+[2023-06-11 17:58:26,876] {standard_task_runner.py:52} INFO - Started process 19496 to run task
+[2023-06-11 17:58:26,879] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'my_first_dag', 'task2', 'manual__2023-06-11T15:58:23.738072+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/my_first_dag.py', '--cfg-path', '/var/folders/ml/jkdq955x7ws9dj1yh9qrx3w40000gn/T/tmp4xh3ouim', '--error-file', '/var/folders/ml/jkdq955x7ws9dj1yh9qrx3w40000gn/T/tmprd7uo81p']
+[2023-06-11 17:58:26,880] {standard_task_runner.py:80} INFO - Job 4: Subtask task2
+[2023-06-11 17:58:26,905] {task_command.py:369} INFO - Running <TaskInstance: my_first_dag.task2 manual__2023-06-11T15:58:23.738072+00:00 [running]> on host macbook-pro-de-yuki.home
+[2023-06-11 17:58:26,925] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=my_first_dag
+AIRFLOW_CTX_TASK_ID=task2
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-11T15:58:23.738072+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-06-11T15:58:23.738072+00:00
+[2023-06-11 17:58:26,925] {logging_mixin.py:115} INFO - Hello Airflow - This is Task 2
+[2023-06-11 17:58:26,925] {python.py:173} INFO - Done. Returned value was: None
+[2023-06-11 17:58:26,928] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=my_first_dag, task_id=task2, execution_date=20230611T155823, start_date=20230611T155826, end_date=20230611T155826
+[2023-06-11 17:58:26,941] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-06-11 17:58:26,949] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

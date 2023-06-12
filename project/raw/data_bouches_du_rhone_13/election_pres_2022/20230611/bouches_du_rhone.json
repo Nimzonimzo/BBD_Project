@@ -1,0 +1,2512 @@
+{
+    "nhits": 2782,
+    "parameters": {
+        "dataset": "elections-france-presidentielles-2022-2nd-tour-par-bureau-de-vote",
+        "rows": 10,
+        "start": 0,
+        "facet": [
+            "dep_name",
+            "com_name",
+            "nom",
+            "prenom",
+            "reg_name",
+            "lib_du_b_vote"
+        ],
+        "format": "json",
+        "timezone": "UTC"
+    },
+    "records": [
+        {
+            "datasetid": "elections-france-presidentielles-2022-2nd-tour-par-bureau-de-vote",
+            "recordid": "54bccf024457675315b561d3718ee1a6e440323c",
+            "fields": {
+                "exp_ins": 72.34,
+                "nuls_ins": 0.34,
+                "reg_code": "93",
+                "libelle_de_la_circonscription": "11\u00e8me circonscription",
+                "code_du_b_vote": "50",
+                "exprimes": 858,
+                "blancs": 33,
+                "dep_name": "Bouches-du-Rh\u00f4ne",
+                "voix_exp": "69,35",
+                "epci_name": "M\u00e9tropole d'Aix-Marseille-Provence",
+                "com_name": "Aix-en-Provence",
+                "ndegpanneau": 1,
+                "nuls_vot": 0.45,
+                "location": [
+                    43.533989,
+                    5.439573
+                ],
+                "sexe": "M",
+                "blancs_ins": 2.78,
+                "votants": 895,
+                "exp_vot": 95.87,
+                "nom": "MACRON",
+                "com_code": "13001",
+                "voix": 595,
+                "prenom": "Emmanuel",
+                "nuls": 4,
+                "code_de_la_circonscription": "11",
+                "abstentions": 291,
+                "blancs_vot": 3.69,
+                "inscrits": 1186,
+                "dep_code": "13",
+                "lib_du_b_vote": "GYMNASE DU ROCHER DU DRAGON",
+                "scrutin_code": "PR2022",
+                "reg_name": "Provence-Alpes-C\u00f4te d'Azur",
+                "epci_code": "200054807",
+                "voix_ins": 50.17,
+                "vot_ins": 75.46,
+                "abs_ins": 24.54
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.439573,
+                    43.533989
+                ]
+            }
+        },
+        {
+            "datasetid": "elections-france-presidentielles-2022-2nd-tour-par-bureau-de-vote",
+            "recordid": "a27838d3fd77641c6f43ec0f23e64500cbcceb23",
+            "fields": {
+                "exp_ins": 63.54,
+                "nuls_ins": 1.74,
+                "reg_code": "93",
+                "libelle_de_la_circonscription": "11\u00e8me circonscription",
+                "code_du_b_vote": "55",
+                "exprimes": 474,
+                "blancs": 29,
+                "dep_name": "Bouches-du-Rh\u00f4ne",
+                "voix_exp": "37,13",
+                "epci_name": "M\u00e9tropole d'Aix-Marseille-Provence",
+                "com_name": "Aix-en-Provence",
+                "ndegpanneau": 2,
+                "nuls_vot": 2.52,
+                "location": [
+                    43.531072,
+                    5.421912
+                ],
+                "sexe": "F",
+                "blancs_ins": 3.89,
+                "votants": 516,
+                "exp_vot": 91.86,
+                "nom": "LE PEN",
+                "com_code": "13001",
+                "voix": 176,
+                "prenom": "Marine",
+                "nuls": 13,
+                "code_de_la_circonscription": "11",
+                "abstentions": 230,
+                "blancs_vot": 5.62,
+                "inscrits": 746,
+                "dep_code": "13",
+                "lib_du_b_vote": "ECOLE CHATEAU DOUBLE",
+                "scrutin_code": "PR2022",
+                "reg_name": "Provence-Alpes-C\u00f4te d'Azur",
+                "epci_code": "200054807",
+                "voix_ins": 23.59,
+                "vot_ins": 69.17,
+                "abs_ins": 30.83
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.421912,
+                    43.531072
+                ]
+            }
+        },
+        {
+            "datasetid": "elections-france-presidentielles-2022-2nd-tour-par-bureau-de-vote",
+            "recordid": "94a45601c36adc8aabc29bffcbf72770287d1ae8",
+            "fields": {
+                "exp_ins": 67.03,
+                "nuls_ins": 0.73,
+                "reg_code": "93",
+                "libelle_de_la_circonscription": "11\u00e8me circonscription",
+                "code_du_b_vote": "58",
+                "exprimes": 730,
+                "blancs": 56,
+                "dep_name": "Bouches-du-Rh\u00f4ne",
+                "voix_exp": "73,97",
+                "epci_name": "M\u00e9tropole d'Aix-Marseille-Provence",
+                "com_name": "Aix-en-Provence",
+                "ndegpanneau": 1,
+                "nuls_vot": 1.01,
+                "location": [
+                    43.513805,
+                    5.443566
+                ],
+                "sexe": "M",
+                "blancs_ins": 5.14,
+                "votants": 794,
+                "exp_vot": 91.94,
+                "nom": "MACRON",
+                "com_code": "13001",
+                "voix": 540,
+                "prenom": "Emmanuel",
+                "nuls": 8,
+                "code_de_la_circonscription": "11",
+                "abstentions": 295,
+                "blancs_vot": 7.05,
+                "inscrits": 1089,
+                "dep_code": "13",
+                "lib_du_b_vote": "ECOLE DES FENOUILLERES",
+                "scrutin_code": "PR2022",
+                "reg_name": "Provence-Alpes-C\u00f4te d'Azur",
+                "epci_code": "200054807",
+                "voix_ins": 49.59,
+                "vot_ins": 72.91,
+                "abs_ins": 27.09
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.443566,
+                    43.513805
+                ]
+            }
+        },
+        {
+            "datasetid": "elections-france-presidentielles-2022-2nd-tour-par-bureau-de-vote",
+            "recordid": "12a4fd5e37739732fd2c0397c9c93ba5d135285d",
+            "fields": {
+                "exp_ins": 53.23,
+                "nuls_ins": 1.8,
+                "reg_code": "93",
+                "libelle_de_la_circonscription": "11\u00e8me circonscription",
+                "code_du_b_vote": "81",
+                "exprimes": 561,
+                "blancs": 41,
+                "dep_name": "Bouches-du-Rh\u00f4ne",
+                "voix_exp": "68,63",
+                "epci_name": "M\u00e9tropole d'Aix-Marseille-Provence",
+                "com_name": "Aix-en-Provence",
+                "ndegpanneau": 1,
+                "nuls_vot": 3.06,
+                "location": [
+                    43.523231,
+                    5.413114
+                ],
+                "sexe": "M",
+                "blancs_ins": 3.89,
+                "votants": 621,
+                "exp_vot": 90.34,
+                "nom": "MACRON",
+                "com_code": "13001",
+                "voix": 385,
+                "prenom": "Emmanuel",
+                "nuls": 19,
+                "code_de_la_circonscription": "11",
+                "abstentions": 433,
+                "blancs_vot": 6.6,
+                "inscrits": 1054,
+                "dep_code": "13",
+                "lib_du_b_vote": "ECOLE JULES PAYOT",
+                "scrutin_code": "PR2022",
+                "reg_name": "Provence-Alpes-C\u00f4te d'Azur",
+                "epci_code": "200054807",
+                "voix_ins": 36.53,
+                "vot_ins": 58.92,
+                "abs_ins": 41.08
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.413114,
+                    43.523231
+                ]
+            }
+        },
+        {
+            "datasetid": "elections-france-presidentielles-2022-2nd-tour-par-bureau-de-vote",
+            "recordid": "d1806cbd538238ad75be847e1b121c6b69d79d50",
+            "fields": {
+                "exp_ins": 57.12,
+                "nuls_ins": 1.55,
+                "reg_code": "93",
+                "libelle_de_la_circonscription": "11\u00e8me circonscription",
+                "code_du_b_vote": "82",
+                "exprimes": 626,
+                "blancs": 27,
+                "dep_name": "Bouches-du-Rh\u00f4ne",
+                "voix_exp": "29,23",
+                "epci_name": "M\u00e9tropole d'Aix-Marseille-Provence",
+                "com_name": "Aix-en-Provence",
+                "ndegpanneau": 2,
+                "nuls_vot": 2.54,
+                "location": [
+                    43.532322,
+                    5.414312
+                ],
+                "sexe": "F",
+                "blancs_ins": 2.46,
+                "votants": 670,
+                "exp_vot": 93.43,
+                "nom": "LE PEN",
+                "com_code": "13001",
+                "voix": 183,
+                "prenom": "Marine",
+                "nuls": 17,
+                "code_de_la_circonscription": "11",
+                "abstentions": 426,
+                "blancs_vot": 4.03,
+                "inscrits": 1096,
+                "dep_code": "13",
+                "lib_du_b_vote": "ECOLE DES DEUX ORMEAUX",
+                "scrutin_code": "PR2022",
+                "reg_name": "Provence-Alpes-C\u00f4te d'Azur",
+                "epci_code": "200054807",
+                "voix_ins": 16.7,
+                "vot_ins": 61.13,
+                "abs_ins": 38.87
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.414312,
+                    43.532322
+                ]
+            }
+        },
+        {
+            "datasetid": "elections-france-presidentielles-2022-2nd-tour-par-bureau-de-vote",
+            "recordid": "6b409929fc42684299a503a22ebb4a1e4410cfd1",
+            "fields": {
+                "exp_ins": 61.2,
+                "nuls_ins": 1.04,
+                "reg_code": "93",
+                "libelle_de_la_circonscription": "14\u00e8me circonscription",
+                "code_du_b_vote": "1",
+                "exprimes": 705,
+                "blancs": 31,
+                "dep_name": "Bouches-du-Rh\u00f4ne",
+                "voix_exp": "28,23",
+                "epci_name": "M\u00e9tropole d'Aix-Marseille-Provence",
+                "com_name": "Aix-en-Provence",
+                "ndegpanneau": 2,
+                "nuls_vot": 1.6,
+                "location": [
+                    43.529931,
+                    5.447869
+                ],
+                "sexe": "F",
+                "blancs_ins": 2.69,
+                "votants": 748,
+                "exp_vot": 94.25,
+                "nom": "LE PEN",
+                "com_code": "13001",
+                "voix": 199,
+                "prenom": "Marine",
+                "nuls": 12,
+                "code_de_la_circonscription": "14",
+                "abstentions": 404,
+                "blancs_vot": 4.14,
+                "inscrits": 1152,
+                "dep_code": "13",
+                "lib_du_b_vote": "HOTEL DE VILLE",
+                "scrutin_code": "PR2022",
+                "reg_name": "Provence-Alpes-C\u00f4te d'Azur",
+                "epci_code": "200054807",
+                "voix_ins": 17.27,
+                "vot_ins": 64.93,
+                "abs_ins": 35.07
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.447869,
+                    43.529931
+                ]
+            }
+        },
+        {
+            "datasetid": "elections-france-presidentielles-2022-2nd-tour-par-bureau-de-vote",
+            "recordid": "a655cc6aa7605a1821b37a40d6fb16907181dc84",
+            "fields": {
+                "exp_ins": 65.49,
+                "nuls_ins": 0.98,
+                "reg_code": "93",
+                "libelle_de_la_circonscription": "14\u00e8me circonscription",
+                "code_du_b_vote": "6",
+                "exprimes": 666,
+                "blancs": 38,
+                "dep_name": "Bouches-du-Rh\u00f4ne",
+                "voix_exp": "25,98",
+                "epci_name": "M\u00e9tropole d'Aix-Marseille-Provence",
+                "com_name": "Aix-en-Provence",
+                "ndegpanneau": 2,
+                "nuls_vot": 1.4,
+                "location": [
+                    43.523991,
+                    5.448288
+                ],
+                "sexe": "F",
+                "blancs_ins": 3.74,
+                "votants": 714,
+                "exp_vot": 93.28,
+                "nom": "LE PEN",
+                "com_code": "13001",
+                "voix": 173,
+                "prenom": "Marine",
+                "nuls": 10,
+                "code_de_la_circonscription": "14",
+                "abstentions": 303,
+                "blancs_vot": 5.32,
+                "inscrits": 1017,
+                "dep_code": "13",
+                "lib_du_b_vote": "COLLEGE MIGNET",
+                "scrutin_code": "PR2022",
+                "reg_name": "Provence-Alpes-C\u00f4te d'Azur",
+                "epci_code": "200054807",
+                "voix_ins": 17.01,
+                "vot_ins": 70.21,
+                "abs_ins": 29.79
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.448288,
+                    43.523991
+                ]
+            }
+        },
+        {
+            "datasetid": "elections-france-presidentielles-2022-2nd-tour-par-bureau-de-vote",
+            "recordid": "9da9386f50e981fa86c632ea7140f74ab2f4cafd",
+            "fields": {
+                "exp_ins": 78.79,
+                "nuls_ins": 1.4,
+                "reg_code": "93",
+                "libelle_de_la_circonscription": "10\u00e8me circonscription",
+                "code_du_b_vote": "8",
+                "exprimes": 843,
+                "blancs": 31,
+                "dep_name": "Bouches-du-Rh\u00f4ne",
+                "voix_exp": "40,69",
+                "epci_name": "M\u00e9tropole d'Aix-Marseille-Provence",
+                "com_name": "Allauch",
+                "ndegpanneau": 1,
+                "nuls_vot": 1.69,
+                "location": [
+                    43.341323,
+                    5.485614
+                ],
+                "sexe": "M",
+                "blancs_ins": 2.9,
+                "votants": 889,
+                "exp_vot": 94.83,
+                "nom": "MACRON",
+                "com_code": "13002",
+                "voix": 343,
+                "prenom": "Emmanuel",
+                "nuls": 15,
+                "code_de_la_circonscription": "10",
+                "abstentions": 181,
+                "blancs_vot": 3.49,
+                "inscrits": 1070,
+                "dep_code": "13",
+                "lib_du_b_vote": "ECOLE POUNCHE",
+                "scrutin_code": "PR2022",
+                "reg_name": "Provence-Alpes-C\u00f4te d'Azur",
+                "epci_code": "200054807",
+                "voix_ins": 32.06,
+                "vot_ins": 83.08,
+                "abs_ins": 16.92
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.485614,
+                    43.341323
+                ]
+            }
+        },
+        {
+            "datasetid": "elections-france-presidentielles-2022-2nd-tour-par-bureau-de-vote",
+            "recordid": "bbe5200acc58357f782752740152d0c28e3fea65",
+            "fields": {
+                "exp_ins": 70.13,
+                "nuls_ins": 1.11,
+                "reg_code": "93",
+                "libelle_de_la_circonscription": "10\u00e8me circonscription",
+                "code_du_b_vote": "16",
+                "exprimes": 317,
+                "blancs": 24,
+                "dep_name": "Bouches-du-Rh\u00f4ne",
+                "voix_exp": "61,51",
+                "epci_name": "M\u00e9tropole d'Aix-Marseille-Provence",
+                "com_name": "Allauch",
+                "ndegpanneau": 2,
+                "nuls_vot": 1.45,
+                "location": [
+                    43.341323,
+                    5.485614
+                ],
+                "sexe": "F",
+                "blancs_ins": 5.31,
+                "votants": 346,
+                "exp_vot": 91.62,
+                "nom": "LE PEN",
+                "com_code": "13002",
+                "voix": 195,
+                "prenom": "Marine",
+                "nuls": 5,
+                "code_de_la_circonscription": "10",
+                "abstentions": 106,
+                "blancs_vot": 6.94,
+                "inscrits": 452,
+                "dep_code": "13",
+                "lib_du_b_vote": "ECOLE POUNCHE",
+                "scrutin_code": "PR2022",
+                "reg_name": "Provence-Alpes-C\u00f4te d'Azur",
+                "epci_code": "200054807",
+                "voix_ins": 43.14,
+                "vot_ins": 76.55,
+                "abs_ins": 23.45
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.485614,
+                    43.341323
+                ]
+            }
+        },
+        {
+            "datasetid": "elections-france-presidentielles-2022-2nd-tour-par-bureau-de-vote",
+            "recordid": "9b2671299f068617a5257bf2bbfee9aad038f174",
+            "fields": {
+                "exp_ins": 65.72,
+                "nuls_ins": 1.24,
+                "reg_code": "93",
+                "libelle_de_la_circonscription": "16\u00e8me circonscription",
+                "code_du_b_vote": "1",
+                "exprimes": 581,
+                "blancs": 59,
+                "dep_name": "Bouches-du-Rh\u00f4ne",
+                "voix_exp": "74,35",
+                "epci_name": "CA d'Arles-Crau-Camargue-Montagnette",
+                "com_name": "Arles",
+                "ndegpanneau": 1,
+                "nuls_vot": 1.69,
+                "location": [
+                    43.608782,
+                    4.610256
+                ],
+                "sexe": "M",
+                "blancs_ins": 6.67,
+                "votants": 651,
+                "exp_vot": 89.25,
+                "nom": "MACRON",
+                "com_code": "13004",
+                "voix": 432,
+                "prenom": "Emmanuel",
+                "nuls": 11,
+                "code_de_la_circonscription": "16",
+                "abstentions": 233,
+                "blancs_vot": 9.06,
+                "inscrits": 884,
+                "dep_code": "13",
+                "lib_du_b_vote": "HOTEL DE VILLE",
+                "scrutin_code": "PR2022",
+                "reg_name": "Provence-Alpes-C\u00f4te d'Azur",
+                "epci_code": "241300417",
+                "voix_ins": 48.87,
+                "vot_ins": 73.64,
+                "abs_ins": 26.36
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.610256,
+                    43.608782
+                ]
+            }
+        }
+    ],
+    "facet_groups": [
+        {
+            "name": "dep_name",
+            "facets": [
+                {
+                    "name": "Bouches-du-Rh\u00f4ne",
+                    "count": 2782,
+                    "state": "refined",
+                    "path": "Bouches-du-Rh\u00f4ne"
+                }
+            ]
+        },
+        {
+            "name": "com_name",
+            "facets": [
+                {
+                    "name": "Marseille",
+                    "count": 962,
+                    "state": "displayed",
+                    "path": "Marseille"
+                },
+                {
+                    "name": "Aix-en-Provence",
+                    "count": 196,
+                    "state": "displayed",
+                    "path": "Aix-en-Provence"
+                },
+                {
+                    "name": "Aubagne",
+                    "count": 74,
+                    "state": "displayed",
+                    "path": "Aubagne"
+                },
+                {
+                    "name": "Arles",
+                    "count": 70,
+                    "state": "displayed",
+                    "path": "Arles"
+                },
+                {
+                    "name": "Martigues",
+                    "count": 68,
+                    "state": "displayed",
+                    "path": "Martigues"
+                },
+                {
+                    "name": "La Ciotat",
+                    "count": 62,
+                    "state": "displayed",
+                    "path": "La Ciotat"
+                },
+                {
+                    "name": "Istres",
+                    "count": 60,
+                    "state": "displayed",
+                    "path": "Istres"
+                },
+                {
+                    "name": "Salon-de-Provence",
+                    "count": 54,
+                    "state": "displayed",
+                    "path": "Salon-de-Provence"
+                },
+                {
+                    "name": "Marignane",
+                    "count": 50,
+                    "state": "displayed",
+                    "path": "Marignane"
+                },
+                {
+                    "name": "Vitrolles",
+                    "count": 50,
+                    "state": "displayed",
+                    "path": "Vitrolles"
+                },
+                {
+                    "name": "Miramas",
+                    "count": 40,
+                    "state": "displayed",
+                    "path": "Miramas"
+                },
+                {
+                    "name": "Allauch",
+                    "count": 36,
+                    "state": "displayed",
+                    "path": "Allauch"
+                },
+                {
+                    "name": "Gardanne",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "Gardanne"
+                },
+                {
+                    "name": "Les Pennes-Mirabeau",
+                    "count": 34,
+                    "state": "displayed",
+                    "path": "Les Pennes-Mirabeau"
+                },
+                {
+                    "name": "Bouc-Bel-Air",
+                    "count": 28,
+                    "state": "displayed",
+                    "path": "Bouc-Bel-Air"
+                },
+                {
+                    "name": "Port-de-Bouc",
+                    "count": 26,
+                    "state": "displayed",
+                    "path": "Port-de-Bouc"
+                },
+                {
+                    "name": "Ch\u00e2teaurenard",
+                    "count": 24,
+                    "state": "displayed",
+                    "path": "Ch\u00e2teaurenard"
+                },
+                {
+                    "name": "Fos-sur-Mer",
+                    "count": 24,
+                    "state": "displayed",
+                    "path": "Fos-sur-Mer"
+                },
+                {
+                    "name": "Auriol",
+                    "count": 22,
+                    "state": "displayed",
+                    "path": "Auriol"
+                },
+                {
+                    "name": "Cabri\u00e8s",
+                    "count": 22,
+                    "state": "displayed",
+                    "path": "Cabri\u00e8s"
+                },
+                {
+                    "name": "Ch\u00e2teauneuf-les-Martigues",
+                    "count": 22,
+                    "state": "displayed",
+                    "path": "Ch\u00e2teauneuf-les-Martigues"
+                },
+                {
+                    "name": "Plan-de-Cuques",
+                    "count": 22,
+                    "state": "displayed",
+                    "path": "Plan-de-Cuques"
+                },
+                {
+                    "name": "Lan\u00e7on-Provence",
+                    "count": 20,
+                    "state": "displayed",
+                    "path": "Lan\u00e7on-Provence"
+                },
+                {
+                    "name": "P\u00e9lissanne",
+                    "count": 20,
+                    "state": "displayed",
+                    "path": "P\u00e9lissanne"
+                },
+                {
+                    "name": "Rognac",
+                    "count": 20,
+                    "state": "displayed",
+                    "path": "Rognac"
+                },
+                {
+                    "name": "Saint-Martin-de-Crau",
+                    "count": 20,
+                    "state": "displayed",
+                    "path": "Saint-Martin-de-Crau"
+                },
+                {
+                    "name": "Saint-R\u00e9my-de-Provence",
+                    "count": 20,
+                    "state": "displayed",
+                    "path": "Saint-R\u00e9my-de-Provence"
+                },
+                {
+                    "name": "Tarascon",
+                    "count": 20,
+                    "state": "displayed",
+                    "path": "Tarascon"
+                },
+                {
+                    "name": "Berre-l'Etang",
+                    "count": 18,
+                    "state": "displayed",
+                    "path": "Berre-l'Etang"
+                },
+                {
+                    "name": "Sept\u00e8mes-les-Vallons",
+                    "count": 18,
+                    "state": "displayed",
+                    "path": "Sept\u00e8mes-les-Vallons"
+                },
+                {
+                    "name": "Gignac-la-Nerthe",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "Gignac-la-Nerthe"
+                },
+                {
+                    "name": "Lambesc",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "Lambesc"
+                },
+                {
+                    "name": "Port-Saint-Louis-du-Rh\u00f4ne",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "Port-Saint-Louis-du-Rh\u00f4ne"
+                },
+                {
+                    "name": "Trets",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "Trets"
+                },
+                {
+                    "name": "Velaux",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "Velaux"
+                },
+                {
+                    "name": "Venelles",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "Venelles"
+                },
+                {
+                    "name": "Ventabren",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "Ventabren"
+                },
+                {
+                    "name": "Cassis",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "Cassis"
+                },
+                {
+                    "name": "Fuveau",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "Fuveau"
+                },
+                {
+                    "name": "Meyreuil",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "Meyreuil"
+                },
+                {
+                    "name": "Roquevaire",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "Roquevaire"
+                },
+                {
+                    "name": "S\u00e9nas",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "S\u00e9nas"
+                },
+                {
+                    "name": "Carry-le-Rouet",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Carry-le-Rouet"
+                },
+                {
+                    "name": "Eguilles",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Eguilles"
+                },
+                {
+                    "name": "La Fare-les-Oliviers",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "La Fare-les-Oliviers"
+                },
+                {
+                    "name": "Roquefort-la-B\u00e9doule",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Roquefort-la-B\u00e9doule"
+                },
+                {
+                    "name": "Saint-Chamas",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Saint-Chamas"
+                },
+                {
+                    "name": "Saint-Mitre-les-Remparts",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Saint-Mitre-les-Remparts"
+                },
+                {
+                    "name": "Saint-Victoret",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Saint-Victoret"
+                },
+                {
+                    "name": "Sausset-les-Pins",
+                    "count": 12,
+                    "state": "displayed",
+                    "path": "Sausset-les-Pins"
+                },
+                {
+                    "name": "Ensu\u00e8s-la-Redonne",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Ensu\u00e8s-la-Redonne"
+                },
+                {
+                    "name": "Eygui\u00e8res",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Eygui\u00e8res"
+                },
+                {
+                    "name": "G\u00e9menos",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "G\u00e9menos"
+                },
+                {
+                    "name": "La Bouilladisse",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "La Bouilladisse"
+                },
+                {
+                    "name": "Le Puy-Sainte-R\u00e9parade",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Le Puy-Sainte-R\u00e9parade"
+                },
+                {
+                    "name": "Mallemort",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Mallemort"
+                },
+                {
+                    "name": "Saint-Cannat",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "Saint-Cannat"
+                },
+                {
+                    "name": "Carnoux-en-Provence",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Carnoux-en-Provence"
+                },
+                {
+                    "name": "Cuges-les-Pins",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Cuges-les-Pins"
+                },
+                {
+                    "name": "Eyragues",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Eyragues"
+                },
+                {
+                    "name": "Fontvieille",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Fontvieille"
+                },
+                {
+                    "name": "Grans",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Grans"
+                },
+                {
+                    "name": "La Penne-sur-Huveaune",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "La Penne-sur-Huveaune"
+                },
+                {
+                    "name": "Le Rove",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Le Rove"
+                },
+                {
+                    "name": "Mimet",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Mimet"
+                },
+                {
+                    "name": "Noves",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Noves"
+                },
+                {
+                    "name": "Peypin",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Peypin"
+                },
+                {
+                    "name": "Rousset",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Rousset"
+                },
+                {
+                    "name": "Simiane-Collongue",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "Simiane-Collongue"
+                },
+                {
+                    "name": "Alleins",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Alleins"
+                },
+                {
+                    "name": "Cabannes",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Cabannes"
+                },
+                {
+                    "name": "Ceyreste",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Ceyreste"
+                },
+                {
+                    "name": "Coudoux",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Coudoux"
+                },
+                {
+                    "name": "Graveson",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Graveson"
+                },
+                {
+                    "name": "Gr\u00e9asque",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Gr\u00e9asque"
+                },
+                {
+                    "name": "Jouques",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Jouques"
+                },
+                {
+                    "name": "La Destrousse",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "La Destrousse"
+                },
+                {
+                    "name": "La Roque-d'Anth\u00e9ron",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "La Roque-d'Anth\u00e9ron"
+                },
+                {
+                    "name": "Meyrargues",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Meyrargues"
+                },
+                {
+                    "name": "Mouri\u00e8s",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Mouri\u00e8s"
+                },
+                {
+                    "name": "Orgon",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Orgon"
+                },
+                {
+                    "name": "Peynier",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Peynier"
+                },
+                {
+                    "name": "Peyrolles-en-Provence",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Peyrolles-en-Provence"
+                },
+                {
+                    "name": "Rognes",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Rognes"
+                },
+                {
+                    "name": "Rognonas",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Rognonas"
+                },
+                {
+                    "name": "Saint-Savournin",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Saint-Savournin"
+                },
+                {
+                    "name": "Saintes-Maries-de-la-Mer",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "Saintes-Maries-de-la-Mer"
+                },
+                {
+                    "name": "Barbentane",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Barbentane"
+                },
+                {
+                    "name": "Belcod\u00e8ne",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Belcod\u00e8ne"
+                },
+                {
+                    "name": "Cadolive",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Cadolive"
+                },
+                {
+                    "name": "Charleval",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Charleval"
+                },
+                {
+                    "name": "Ch\u00e2teauneuf-le-Rouge",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Ch\u00e2teauneuf-le-Rouge"
+                },
+                {
+                    "name": "Eygali\u00e8res",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Eygali\u00e8res"
+                },
+                {
+                    "name": "Lamanon",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Lamanon"
+                },
+                {
+                    "name": "Le Tholonet",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Le Tholonet"
+                },
+                {
+                    "name": "Maillane",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Maillane"
+                },
+                {
+                    "name": "Maussane-les-Alpilles",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Maussane-les-Alpilles"
+                },
+                {
+                    "name": "Paradou",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Paradou"
+                },
+                {
+                    "name": "Plan-d'Orgon",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Plan-d'Orgon"
+                },
+                {
+                    "name": "Saint-Andiol",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Saint-Andiol"
+                },
+                {
+                    "name": "Saint-Etienne-du-Gr\u00e8s",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Saint-Etienne-du-Gr\u00e8s"
+                },
+                {
+                    "name": "Vern\u00e8gues",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "Vern\u00e8gues"
+                },
+                {
+                    "name": "Aureille",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Aureille"
+                },
+                {
+                    "name": "Aurons",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Aurons"
+                },
+                {
+                    "name": "Beaurecueil",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Beaurecueil"
+                },
+                {
+                    "name": "Boulbon",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Boulbon"
+                },
+                {
+                    "name": "Cornillon-Confoux",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Cornillon-Confoux"
+                },
+                {
+                    "name": "La Barben",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "La Barben"
+                },
+                {
+                    "name": "Les Baux-de-Provence",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Les Baux-de-Provence"
+                },
+                {
+                    "name": "Mas-Blanc-des-Alpilles",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Mas-Blanc-des-Alpilles"
+                },
+                {
+                    "name": "Moll\u00e9g\u00e8s",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Moll\u00e9g\u00e8s"
+                },
+                {
+                    "name": "Puyloubier",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Puyloubier"
+                },
+                {
+                    "name": "Saint-Antonin-sur-Bayon",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Saint-Antonin-sur-Bayon"
+                },
+                {
+                    "name": "Saint-Est\u00e8ve-Janson",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Saint-Est\u00e8ve-Janson"
+                },
+                {
+                    "name": "Saint-Marc-Jaumegarde",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Saint-Marc-Jaumegarde"
+                },
+                {
+                    "name": "Saint-Paul-l\u00e8s-Durance",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Saint-Paul-l\u00e8s-Durance"
+                },
+                {
+                    "name": "Saint-Pierre-de-M\u00e9zoargues",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Saint-Pierre-de-M\u00e9zoargues"
+                },
+                {
+                    "name": "Vauvenargues",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Vauvenargues"
+                },
+                {
+                    "name": "Verqui\u00e8res",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "Verqui\u00e8res"
+                }
+            ]
+        },
+        {
+            "name": "nom",
+            "facets": [
+                {
+                    "name": "LE PEN",
+                    "count": 1391,
+                    "state": "displayed",
+                    "path": "LE PEN"
+                },
+                {
+                    "name": "MACRON",
+                    "count": 1391,
+                    "state": "displayed",
+                    "path": "MACRON"
+                }
+            ]
+        },
+        {
+            "name": "prenom",
+            "facets": [
+                {
+                    "name": "Emmanuel",
+                    "count": 1391,
+                    "state": "displayed",
+                    "path": "Emmanuel"
+                },
+                {
+                    "name": "Marine",
+                    "count": 1391,
+                    "state": "displayed",
+                    "path": "Marine"
+                }
+            ]
+        },
+        {
+            "name": "reg_name",
+            "facets": [
+                {
+                    "name": "Provence-Alpes-C\u00f4te d'Azur",
+                    "count": 2782,
+                    "state": "displayed",
+                    "path": "Provence-Alpes-C\u00f4te d'Azur"
+                }
+            ]
+        },
+        {
+            "name": "lib_du_b_vote",
+            "facets": [
+                {
+                    "name": "HOTEL DE VILLE",
+                    "count": 52,
+                    "state": "displayed",
+                    "path": "HOTEL DE VILLE"
+                },
+                {
+                    "name": "BUREAU 1",
+                    "count": 30,
+                    "state": "displayed",
+                    "path": "BUREAU 1"
+                },
+                {
+                    "name": "BUREAU 2",
+                    "count": 24,
+                    "state": "displayed",
+                    "path": "BUREAU 2"
+                },
+                {
+                    "name": "BUREAU 3",
+                    "count": 20,
+                    "state": "displayed",
+                    "path": "BUREAU 3"
+                },
+                {
+                    "name": "ESPACE SAINT EXUPERY",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "ESPACE SAINT EXUPERY"
+                },
+                {
+                    "name": "GYMNASE DU CARESTIER",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "GYMNASE DU CARESTIER"
+                },
+                {
+                    "name": "MAIRIE",
+                    "count": 16,
+                    "state": "displayed",
+                    "path": "MAIRIE"
+                },
+                {
+                    "name": "CENTRE AERE FUN EN BULLE",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "CENTRE AERE FUN EN BULLE"
+                },
+                {
+                    "name": "PARC DES SPORTS DU BOLMON",
+                    "count": 14,
+                    "state": "displayed",
+                    "path": "PARC DES SPORTS DU BOLMON"
+                },
+                {
+                    "name": "ECOLE LOGIS NEUF",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "ECOLE LOGIS NEUF"
+                },
+                {
+                    "name": "ECOLE POUNCHE",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "ECOLE POUNCHE"
+                },
+                {
+                    "name": "G S AUPECLE",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "G S AUPECLE"
+                },
+                {
+                    "name": "G S LOUISE MICHEL",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "G S LOUISE MICHEL"
+                },
+                {
+                    "name": "SALLE POLYVALENTE",
+                    "count": 10,
+                    "state": "displayed",
+                    "path": "SALLE POLYVALENTE"
+                },
+                {
+                    "name": "BUREAU 4",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "BUREAU 4"
+                },
+                {
+                    "name": "COLLEGE MIGNET",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "COLLEGE MIGNET"
+                },
+                {
+                    "name": "ECOLE ALPHONSE DAUDET",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "ECOLE ALPHONSE DAUDET"
+                },
+                {
+                    "name": "ECOLE DE BEAUDINARD",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "ECOLE DE BEAUDINARD"
+                },
+                {
+                    "name": "GYMNASE DU CHARREL",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "GYMNASE DU CHARREL"
+                },
+                {
+                    "name": "MAISON DES ASSOCIATIONS",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "MAISON DES ASSOCIATIONS"
+                },
+                {
+                    "name": "MAISON DU PEUPLE",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "MAISON DU PEUPLE"
+                },
+                {
+                    "name": "SALLE DES FETES",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "SALLE DES FETES"
+                },
+                {
+                    "name": "SALLE DES FETES DE LUYNES",
+                    "count": 8,
+                    "state": "displayed",
+                    "path": "SALLE DES FETES DE LUYNES"
+                },
+                {
+                    "name": "COMPLEXE SPORTIF ET CULTUREL",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "COMPLEXE SPORTIF ET CULTUREL"
+                },
+                {
+                    "name": "COMPLEXE SPORTIF MARIUS AILLET",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "COMPLEXE SPORTIF MARIUS AILLET"
+                },
+                {
+                    "name": "ECOLE DE CAMP MAJOR",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "ECOLE DE CAMP MAJOR"
+                },
+                {
+                    "name": "ECOLE DE CELONY",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "ECOLE DE CELONY"
+                },
+                {
+                    "name": "ECOLE DES GRANETTES",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "ECOLE DES GRANETTES"
+                },
+                {
+                    "name": "ECOLE DU VAL SAINT ANDRE",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "ECOLE DU VAL SAINT ANDRE"
+                },
+                {
+                    "name": "ECOLE JEAN MOULIN",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "ECOLE JEAN MOULIN"
+                },
+                {
+                    "name": "ECOLE JOSEPH D ARBAUD",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "ECOLE JOSEPH D ARBAUD"
+                },
+                {
+                    "name": "ECOLE JULES FERRY",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "ECOLE JULES FERRY"
+                },
+                {
+                    "name": "ECOLE JULES PAYOT",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "ECOLE JULES PAYOT"
+                },
+                {
+                    "name": "ECOLE MERMOZ",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "ECOLE MERMOZ"
+                },
+                {
+                    "name": "ECOLE PIE D AUTRY",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "ECOLE PIE D AUTRY"
+                },
+                {
+                    "name": "ECOLE PRIMAIRE DU PIN VERT",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "ECOLE PRIMAIRE DU PIN VERT"
+                },
+                {
+                    "name": "ESPACE DES LIBERTES",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "ESPACE DES LIBERTES"
+                },
+                {
+                    "name": "ESPACE POLYVALENT ARBOIS DURANNE",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "ESPACE POLYVALENT ARBOIS DURANNE"
+                },
+                {
+                    "name": "GYMNASE COULANGE",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "GYMNASE COULANGE"
+                },
+                {
+                    "name": "GYMNASE COURNAND",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "GYMNASE COURNAND"
+                },
+                {
+                    "name": "GYMNASE DU ROCHER DU DRAGON",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "GYMNASE DU ROCHER DU DRAGON"
+                },
+                {
+                    "name": "GYMNASE HENRI TRANCHIER",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "GYMNASE HENRI TRANCHIER"
+                },
+                {
+                    "name": "SALLE DES ASSOCIATIONS",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "SALLE DES ASSOCIATIONS"
+                },
+                {
+                    "name": "SALLE DES FETES DE PUYRICARD",
+                    "count": 6,
+                    "state": "displayed",
+                    "path": "SALLE DES FETES DE PUYRICARD"
+                },
+                {
+                    "name": "ANCIENNE ECOLE DU COURS DES ALPES",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ANCIENNE ECOLE DU COURS DES ALPES"
+                },
+                {
+                    "name": "BUREAU 001",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "BUREAU 001"
+                },
+                {
+                    "name": "BUREAU 002",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "BUREAU 002"
+                },
+                {
+                    "name": "BUREAU 003",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "BUREAU 003"
+                },
+                {
+                    "name": "BUREAU 1 SALLE DES FETES",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "BUREAU 1 SALLE DES FETES"
+                },
+                {
+                    "name": "BUREAU 5",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "BUREAU 5"
+                },
+                {
+                    "name": "CENTRE AERE DU MAZET",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "CENTRE AERE DU MAZET"
+                },
+                {
+                    "name": "CENTRE AERE LE BEALET ALSH",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "CENTRE AERE LE BEALET ALSH"
+                },
+                {
+                    "name": "CENTRE DE VIE BERNARD PALISSY",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "CENTRE DE VIE BERNARD PALISSY"
+                },
+                {
+                    "name": "CENTRE JEAN GIONO",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "CENTRE JEAN GIONO"
+                },
+                {
+                    "name": "CENTRE SOCIAL FABIEN MENOT",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "CENTRE SOCIAL FABIEN MENOT"
+                },
+                {
+                    "name": "ECOLE ALBERIC LAURENT",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE ALBERIC LAURENT"
+                },
+                {
+                    "name": "ECOLE BREMOND PUYRICARD",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE BREMOND PUYRICARD"
+                },
+                {
+                    "name": "ECOLE CHATEAU DOUBLE",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE CHATEAU DOUBLE"
+                },
+                {
+                    "name": "ECOLE DE CUQUES",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE DE CUQUES"
+                },
+                {
+                    "name": "ECOLE DE LA CRAU",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE DE LA CRAU"
+                },
+                {
+                    "name": "ECOLE DES BEAUX ARTS",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE DES BEAUX ARTS"
+                },
+                {
+                    "name": "ECOLE DES DEUX ORMEAUX",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE DES DEUX ORMEAUX"
+                },
+                {
+                    "name": "ECOLE DES FENOUILLERES",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE DES FENOUILLERES"
+                },
+                {
+                    "name": "ECOLE DES FLORALIES",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE DES FLORALIES"
+                },
+                {
+                    "name": "ECOLE DES PINEDES",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE DES PINEDES"
+                },
+                {
+                    "name": "ECOLE ELEMENT J P MARIA FABRY",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE ELEMENT J P MARIA FABRY"
+                },
+                {
+                    "name": "ECOLE ELEMENTAIRE LA GARDE",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE ELEMENTAIRE LA GARDE"
+                },
+                {
+                    "name": "ECOLE ELEMENTAIRE LOUIS MARIN",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE ELEMENTAIRE LOUIS MARIN"
+                },
+                {
+                    "name": "ECOLE ELEMENTAIRE SAINT JEAN",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE ELEMENTAIRE SAINT JEAN"
+                },
+                {
+                    "name": "ECOLE ELEMENTAIRE SIMONE VEIL HALL D ACCUEIL",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE ELEMENTAIRE SIMONE VEIL HALL D ACCUEIL"
+                },
+                {
+                    "name": "ECOLE ENCO DE BOTTE",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE ENCO DE BOTTE"
+                },
+                {
+                    "name": "ECOLE HENRI WALLON",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE HENRI WALLON"
+                },
+                {
+                    "name": "ECOLE JOSEPH ROUMANILLE LES MILLES",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE JOSEPH ROUMANILLE LES MILLES"
+                },
+                {
+                    "name": "ECOLE JULES ISAAC",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE JULES ISAAC"
+                },
+                {
+                    "name": "ECOLE LA MARESCHALE",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE LA MARESCHALE"
+                },
+                {
+                    "name": "ECOLE MARCEL PAGNOL",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE MARCEL PAGNOL"
+                },
+                {
+                    "name": "ECOLE MATERNELLE ELSA TRIOLET",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE MATERNELLE ELSA TRIOLET"
+                },
+                {
+                    "name": "ECOLE MATERNELLE J PREVERT",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE MATERNELLE J PREVERT"
+                },
+                {
+                    "name": "ECOLE MATERNELLE MARIE MAURON",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE MATERNELLE MARIE MAURON"
+                },
+                {
+                    "name": "ECOLE PAUL CEZANNE",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE PAUL CEZANNE"
+                },
+                {
+                    "name": "ECOLE PAUL ELUARD",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE PAUL ELUARD"
+                },
+                {
+                    "name": "ECOLE PRIMAIRE DES CADENEAUX",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE PRIMAIRE DES CADENEAUX"
+                },
+                {
+                    "name": "ECOLE PRIMAIRE MARCEL PAGNOL",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE PRIMAIRE MARCEL PAGNOL"
+                },
+                {
+                    "name": "ECOLE SALLIER",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE SALLIER"
+                },
+                {
+                    "name": "ECOLE VESSIOT",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "ECOLE VESSIOT"
+                },
+                {
+                    "name": "FOYER DES ANCIENS",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "FOYER DES ANCIENS"
+                },
+                {
+                    "name": "FOYER PIERRE EMMANUEL",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "FOYER PIERRE EMMANUEL"
+                },
+                {
+                    "name": "G S ANTOINE TOURREL II",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "G S ANTOINE TOURREL II"
+                },
+                {
+                    "name": "G S ROBERT DESNOS",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "G S ROBERT DESNOS"
+                },
+                {
+                    "name": "GROUPE SCOL ROMAIN ROLLAND",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "GROUPE SCOL ROMAIN ROLLAND"
+                },
+                {
+                    "name": "GROUPE SCOLAIRE CASTEL HELENE",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "GROUPE SCOLAIRE CASTEL HELENE"
+                },
+                {
+                    "name": "GROUPE SCOLAIRE JEAN GIONO",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "GROUPE SCOLAIRE JEAN GIONO"
+                },
+                {
+                    "name": "GROUPE SCOLAIRE VIRGINIE DEDIEU",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "GROUPE SCOLAIRE VIRGINIE DEDIEU"
+                },
+                {
+                    "name": "GYMNASE",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "GYMNASE"
+                },
+                {
+                    "name": "GYMNASE DE FONTVENELLE",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "GYMNASE DE FONTVENELLE"
+                },
+                {
+                    "name": "GYMNASE IGNACE HEINRICH",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "GYMNASE IGNACE HEINRICH"
+                },
+                {
+                    "name": "GYMNASE LE COSEC",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "GYMNASE LE COSEC"
+                },
+                {
+                    "name": "MAIRIE ANNEXE DU PONT DE L ARC",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "MAIRIE ANNEXE DU PONT DE L ARC"
+                },
+                {
+                    "name": "MAISON DES SOCIETES DE BIVER",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "MAISON DES SOCIETES DE BIVER"
+                },
+                {
+                    "name": "SALLE BAUGNIES DE ST MARCEAUX",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "SALLE BAUGNIES DE ST MARCEAUX"
+                },
+                {
+                    "name": "SALLE CHATEAU PITTY",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "SALLE CHATEAU PITTY"
+                },
+                {
+                    "name": "SALLE DES FETES JEAN MONNET",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "SALLE DES FETES JEAN MONNET"
+                },
+                {
+                    "name": "SALLE DU CONSEIL MUNICIPAL",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "SALLE DU CONSEIL MUNICIPAL"
+                },
+                {
+                    "name": "SALLE DU GRES",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "SALLE DU GRES"
+                },
+                {
+                    "name": "SALLE DU MONT FLEURI",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "SALLE DU MONT FLEURI"
+                },
+                {
+                    "name": "SALLE DU REAL",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "SALLE DU REAL"
+                },
+                {
+                    "name": "SALLE MUNICIPALE",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "SALLE MUNICIPALE"
+                },
+                {
+                    "name": "SALLE POLYVALENTE ECOLES",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "SALLE POLYVALENTE ECOLES"
+                },
+                {
+                    "name": "SALLE POLYVALENTE LA COURONNE",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "SALLE POLYVALENTE LA COURONNE"
+                },
+                {
+                    "name": "SALLE POLYVALENTE ROGER BAUDIN",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "SALLE POLYVALENTE ROGER BAUDIN"
+                },
+                {
+                    "name": "SALLE VARAGE MASSANE",
+                    "count": 4,
+                    "state": "displayed",
+                    "path": "SALLE VARAGE MASSANE"
+                },
+                {
+                    "name": "ALBARON",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "ALBARON"
+                },
+                {
+                    "name": "ALSH JEAN PAUL HOULLIE A",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "ALSH JEAN PAUL HOULLIE A"
+                },
+                {
+                    "name": "ALSH JEAN PAUL HOULLIE B",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "ALSH JEAN PAUL HOULLIE B"
+                },
+                {
+                    "name": "AMPHITHEATRE DE LA VERRIERE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "AMPHITHEATRE DE LA VERRIERE"
+                },
+                {
+                    "name": "ANCIENNE ECOLE DE MAURAN",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "ANCIENNE ECOLE DE MAURAN"
+                },
+                {
+                    "name": "ANCIENNE ECOLE DU VERGER",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "ANCIENNE ECOLE DU VERGER"
+                },
+                {
+                    "name": "ANCIENNE ECOLE MAT PICASSO HALL",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "ANCIENNE ECOLE MAT PICASSO HALL"
+                },
+                {
+                    "name": "ANCIENNE MAIRIE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "ANCIENNE MAIRIE"
+                },
+                {
+                    "name": "ANNEXE ECOLE ELEMENT ST JEAN",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "ANNEXE ECOLE ELEMENT ST JEAN"
+                },
+                {
+                    "name": "ANNEXE SALENGRO",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "ANNEXE SALENGRO"
+                },
+                {
+                    "name": "ATRIUM SALLES 3 ET 4",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "ATRIUM SALLES 3 ET 4"
+                },
+                {
+                    "name": "BARRIOL",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BARRIOL"
+                },
+                {
+                    "name": "BIBLIOTHEQUE 1",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BIBLIOTHEQUE 1"
+                },
+                {
+                    "name": "BIBLIOTHEQUE 2",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BIBLIOTHEQUE 2"
+                },
+                {
+                    "name": "BIBLIOTHEQUE LI CAMPANETO LES MILLES",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BIBLIOTHEQUE LI CAMPANETO LES MILLES"
+                },
+                {
+                    "name": "BIBLIOTHEQUE MUNICIPALE MARIE ROSE POGGIO",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BIBLIOTHEQUE MUNICIPALE MARIE ROSE POGGIO"
+                },
+                {
+                    "name": "BIGOT ALYSCAMPS",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BIGOT ALYSCAMPS"
+                },
+                {
+                    "name": "BUREAU 004",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 004"
+                },
+                {
+                    "name": "BUREAU 005",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 005"
+                },
+                {
+                    "name": "BUREAU 006",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 006"
+                },
+                {
+                    "name": "BUREAU 007",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 007"
+                },
+                {
+                    "name": "BUREAU 008",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 008"
+                },
+                {
+                    "name": "BUREAU 009",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 009"
+                },
+                {
+                    "name": "BUREAU 01",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 01"
+                },
+                {
+                    "name": "BUREAU 02",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 02"
+                },
+                {
+                    "name": "BUREAU 03",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 03"
+                },
+                {
+                    "name": "BUREAU 04",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 04"
+                },
+                {
+                    "name": "BUREAU 05",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 05"
+                },
+                {
+                    "name": "BUREAU 06",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 06"
+                },
+                {
+                    "name": "BUREAU 07",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 07"
+                },
+                {
+                    "name": "BUREAU 1 CENTRE FREDERIC MISTRAL",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 1 CENTRE FREDERIC MISTRAL"
+                },
+                {
+                    "name": "BUREAU 1 ECOLE MATERNELLE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 1 ECOLE MATERNELLE"
+                },
+                {
+                    "name": "BUREAU 1 HOTEL DE VILLE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 1 HOTEL DE VILLE"
+                },
+                {
+                    "name": "BUREAU 1 SALLE COMMUNALE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 1 SALLE COMMUNALE"
+                },
+                {
+                    "name": "BUREAU 1 SALLE DES ARTS ET DE LA CULTURE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 1 SALLE DES ARTS ET DE LA CULTURE"
+                },
+                {
+                    "name": "BUREAU 1 SALLE DES MARIAGES",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 1 SALLE DES MARIAGES"
+                },
+                {
+                    "name": "BUREAU 2 CANTINE SCOLAIRE JULES FERRY",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 2 CANTINE SCOLAIRE JULES FERRY"
+                },
+                {
+                    "name": "BUREAU 2 CENTRE FREDERIC MISTRAL",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 2 CENTRE FREDERIC MISTRAL"
+                },
+                {
+                    "name": "BUREAU 2 CENTRE SOCIO CULTUREL",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 2 CENTRE SOCIO CULTUREL"
+                },
+                {
+                    "name": "BUREAU 2 GYMNASE ALBERT CERBONI",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 2 GYMNASE ALBERT CERBONI"
+                },
+                {
+                    "name": "BUREAU 2 HOTEL DE VILLE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 2 HOTEL DE VILLE"
+                },
+                {
+                    "name": "BUREAU 2 MATERNEL A NEUVE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 2 MATERNEL A NEUVE"
+                },
+                {
+                    "name": "BUREAU 2 RESTAURANT SCOLAIRE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 2 RESTAURANT SCOLAIRE"
+                },
+                {
+                    "name": "BUREAU 2 SALLE MOISSIARD",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 2 SALLE MOISSIARD"
+                },
+                {
+                    "name": "BUREAU 3 CANTINE SCOLAIRE VICTOR HUGO",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 3 CANTINE SCOLAIRE VICTOR HUGO"
+                },
+                {
+                    "name": "BUREAU 3 ECOLE MATERNELLE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 3 ECOLE MATERNELLE"
+                },
+                {
+                    "name": "BUREAU 3 GROUPE SCOLAIRE NELSON MANDELA",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 3 GROUPE SCOLAIRE NELSON MANDELA"
+                },
+                {
+                    "name": "BUREAU 3 GYMNASE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 3 GYMNASE"
+                },
+                {
+                    "name": "BUREAU 3 LE BASTIDON",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 3 LE BASTIDON"
+                },
+                {
+                    "name": "BUREAU 3 RESTAUR SCOLAIRE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 3 RESTAUR SCOLAIRE"
+                },
+                {
+                    "name": "BUREAU 4 CENTRE COMMERCIAL DU GRAND VALLAT",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 4 CENTRE COMMERCIAL DU GRAND VALLAT"
+                },
+                {
+                    "name": "BUREAU 4 ECOLE DAVID DOUILLET",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 4 ECOLE DAVID DOUILLET"
+                },
+                {
+                    "name": "BUREAU 4 ECOLE MATERNELLE CLASSE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 4 ECOLE MATERNELLE CLASSE"
+                },
+                {
+                    "name": "BUREAU 4 ECOLE PRIMAIRE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 4 ECOLE PRIMAIRE"
+                },
+                {
+                    "name": "BUREAU 4 GROUPE SCOLAIRE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 4 GROUPE SCOLAIRE"
+                },
+                {
+                    "name": "BUREAU 5 ESPACE MARCEL PAGNOL",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 5 ESPACE MARCEL PAGNOL"
+                },
+                {
+                    "name": "BUREAU 5 GYMNASE ALAIN CALMAT",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 5 GYMNASE ALAIN CALMAT"
+                },
+                {
+                    "name": "BUREAU 6",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 6"
+                },
+                {
+                    "name": "BUREAU 6 GYMNASE ALBERT CERBONI",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 6 GYMNASE ALBERT CERBONI"
+                },
+                {
+                    "name": "BUREAU 6 PARC DES LOISIRS",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 6 PARC DES LOISIRS"
+                },
+                {
+                    "name": "BUREAU 6 SALLE CALANQUES",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 6 SALLE CALANQUES"
+                },
+                {
+                    "name": "BUREAU 7 GROUPE SCOLAIRE NELSON MANDELA",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 7 GROUPE SCOLAIRE NELSON MANDELA"
+                },
+                {
+                    "name": "BUREAU 8 ESPACE MARCEL PAGNOL",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU 8 ESPACE MARCEL PAGNOL"
+                },
+                {
+                    "name": "BUREAU DE VOTE 1",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU DE VOTE 1"
+                },
+                {
+                    "name": "BUREAU DE VOTE 2",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU DE VOTE 2"
+                },
+                {
+                    "name": "BUREAU DE VOTE 3",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU DE VOTE 3"
+                },
+                {
+                    "name": "BUREAU DE VOTE 4",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU DE VOTE 4"
+                },
+                {
+                    "name": "BUREAU DE VOTE 5",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU DE VOTE 5"
+                },
+                {
+                    "name": "BUREAU DE VOTE 6",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU DE VOTE 6"
+                },
+                {
+                    "name": "BUREAU DE VOTE 7",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU DE VOTE 7"
+                },
+                {
+                    "name": "BUREAU DE VOTE 8",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU DE VOTE 8"
+                },
+                {
+                    "name": "BUREAU DE VOTE N 1",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU DE VOTE N 1"
+                },
+                {
+                    "name": "BUREAU DE VOTE N 1 MAIRIE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU DE VOTE N 1 MAIRIE"
+                },
+                {
+                    "name": "BUREAU DE VOTE N 2 ENSOLEIADO",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU DE VOTE N 2 ENSOLEIADO"
+                },
+                {
+                    "name": "BUREAU N 01 SALLE DES FETES",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU N 01 SALLE DES FETES"
+                },
+                {
+                    "name": "BUREAU N 02 SALLE DES FETES",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU N 02 SALLE DES FETES"
+                },
+                {
+                    "name": "BUREAU N 1",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU N 1"
+                },
+                {
+                    "name": "BUREAU N 1 JAS VIEUX",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU N 1 JAS VIEUX"
+                },
+                {
+                    "name": "BUREAU N 2",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU N 2"
+                },
+                {
+                    "name": "BUREAU N 2 ESPACE TOURNON",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU N 2 ESPACE TOURNON"
+                },
+                {
+                    "name": "BUREAU N 3",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU N 3"
+                },
+                {
+                    "name": "BUREAU N 3 SALLE DU GRAND BLEU",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU N 3 SALLE DU GRAND BLEU"
+                },
+                {
+                    "name": "BUREAU N 4 SALLE CANEPA",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU N 4 SALLE CANEPA"
+                },
+                {
+                    "name": "BUREAU N 5 ECOLE MATERNELLE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BUREAU N 5 ECOLE MATERNELLE"
+                },
+                {
+                    "name": "BV01 ECOLE MALRAUX MIXTE 1",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BV01 ECOLE MALRAUX MIXTE 1"
+                },
+                {
+                    "name": "BV02 ECOLE MALRAUX MIXTE 2",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BV02 ECOLE MALRAUX MIXTE 2"
+                },
+                {
+                    "name": "BV03 ECOLE ROBERT DEBRE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BV03 ECOLE ROBERT DEBRE"
+                },
+                {
+                    "name": "BV04 ECOLE MATERN ESCARBOUCLE",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BV04 ECOLE MATERN ESCARBOUCLE"
+                },
+                {
+                    "name": "BV05 SALLE CLEMENCEAU",
+                    "count": 2,
+                    "state": "displayed",
+                    "path": "BV05 SALLE CLEMENCEAU"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+[2023-06-11 23:16:13,449] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: project_dag.produce_usage manual__2023-06-11T21:14:32.934587+00:00 [queued]>
+[2023-06-11 23:16:13,452] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: project_dag.produce_usage manual__2023-06-11T21:14:32.934587+00:00 [queued]>
+[2023-06-11 23:16:13,453] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-11 23:16:13,453] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2023-06-11 23:16:13,453] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-11 23:16:13,457] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): produce_usage> on 2023-06-11 21:14:32.934587+00:00
+[2023-06-11 23:16:13,462] {standard_task_runner.py:52} INFO - Started process 50868 to run task
+[2023-06-11 23:16:13,466] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'project_dag', 'produce_usage', 'manual__2023-06-11T21:14:32.934587+00:00', '--job-id', '14', '--raw', '--subdir', 'DAGS_FOLDER/project_dag.py', '--cfg-path', '/var/folders/ml/jkdq955x7ws9dj1yh9qrx3w40000gn/T/tmpe5oz5jnw', '--error-file', '/var/folders/ml/jkdq955x7ws9dj1yh9qrx3w40000gn/T/tmp4mmgpn8s']
+[2023-06-11 23:16:13,467] {standard_task_runner.py:80} INFO - Job 14: Subtask produce_usage
+[2023-06-11 23:16:13,495] {task_command.py:369} INFO - Running <TaskInstance: project_dag.produce_usage manual__2023-06-11T21:14:32.934587+00:00 [running]> on host macbook-pro-de-yuki.home
+[2023-06-11 23:16:13,524] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=project_dag
+AIRFLOW_CTX_TASK_ID=produce_usage
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-11T21:14:32.934587+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-06-11T21:14:32.934587+00:00
+[2023-06-11 23:16:13,565] {logging_mixin.py:115} INFO -    exp_ins  nuls_ins reg_code  ... voix_ins vot_ins  abs_ins
+0    72.34      0.34       93  ...    50.17   75.46    24.54
+1    63.54      1.74       93  ...    23.59   69.17    30.83
+2    67.03      0.73       93  ...    49.59   72.91    27.09
+3    53.23      1.80       93  ...    36.53   58.92    41.08
+4    57.12      1.55       93  ...    16.70   61.13    38.87
+5    61.20      1.04       93  ...    17.27   64.93    35.07
+6    65.49      0.98       93  ...    17.01   70.21    29.79
+7    78.79      1.40       93  ...    32.06   83.08    16.92
+8    70.13      1.11       93  ...    43.14   76.55    23.45
+9    65.72      1.24       93  ...    48.87   73.64    26.36
+
+[10 rows x 35 columns]
+[2023-06-11 23:16:13,580] {logging_mixin.py:115} INFO -    exp_ins  nuls_ins reg_code  ... voix_ins vot_ins  abs_ins
+0    76.64      1.28       32  ...    23.04   83.04    16.96
+1    60.76      1.45       32  ...    17.71   65.49    34.51
+2    70.83      1.61       32  ...    16.48   77.00    23.00
+3    59.78      2.05       32  ...    35.91   64.29    35.71
+4    72.67      1.18       32  ...    26.59   75.78    24.22
+5    72.67      1.18       32  ...    46.09   75.78    24.22
+6    76.23      1.71       32  ...    42.30   81.87    18.13
+7    57.18      2.44       32  ...    26.74   63.87    36.13
+8    57.18      2.44       32  ...    30.44   63.87    36.13
+9    67.88      2.14       32  ...    27.58   74.69    25.31
+
+[10 rows x 35 columns]
+[2023-06-11 23:16:13,584] {logging_mixin.py:115} INFO - Les fichiers Parquet ont été combinés avec succès en un fichier CSV (méthode 1 : Pandas).
+[2023-06-11 23:16:13,584] {python.py:173} INFO - Done. Returned value was: None
+[2023-06-11 23:16:13,588] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=project_dag, task_id=produce_usage, execution_date=20230611T211432, start_date=20230611T211613, end_date=20230611T211613
+[2023-06-11 23:16:13,611] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-06-11 23:16:13,624] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

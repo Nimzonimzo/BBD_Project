@@ -1,0 +1,25 @@
+[2023-06-11 23:15:18,234] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: project_dag.nord_source_to_raw manual__2023-06-11T21:14:32.934587+00:00 [queued]>
+[2023-06-11 23:15:18,237] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: project_dag.nord_source_to_raw manual__2023-06-11T21:14:32.934587+00:00 [queued]>
+[2023-06-11 23:15:18,237] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-11 23:15:18,237] {taskinstance.py:1357} INFO - Starting attempt 1 of 2
+[2023-06-11 23:15:18,237] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-06-11 23:15:18,242] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): nord_source_to_raw> on 2023-06-11 21:14:32.934587+00:00
+[2023-06-11 23:15:18,247] {standard_task_runner.py:52} INFO - Started process 50783 to run task
+[2023-06-11 23:15:18,250] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'project_dag', 'nord_source_to_raw', 'manual__2023-06-11T21:14:32.934587+00:00', '--job-id', '8', '--raw', '--subdir', 'DAGS_FOLDER/project_dag.py', '--cfg-path', '/var/folders/ml/jkdq955x7ws9dj1yh9qrx3w40000gn/T/tmp8yvw9z_w', '--error-file', '/var/folders/ml/jkdq955x7ws9dj1yh9qrx3w40000gn/T/tmp7374625f']
+[2023-06-11 23:15:18,251] {standard_task_runner.py:80} INFO - Job 8: Subtask nord_source_to_raw
+[2023-06-11 23:15:18,277] {task_command.py:369} INFO - Running <TaskInstance: project_dag.nord_source_to_raw manual__2023-06-11T21:14:32.934587+00:00 [running]> on host macbook-pro-de-yuki.home
+[2023-06-11 23:15:18,304] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=airflow@example.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=project_dag
+AIRFLOW_CTX_TASK_ID=nord_source_to_raw
+AIRFLOW_CTX_EXECUTION_DATE=2023-06-11T21:14:32.934587+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-06-11T21:14:32.934587+00:00
+[2023-06-11 23:15:18,400] {logging_mixin.py:115} INFO - Écriture ici :  /Users/yuki/airflow/project/raw/data_nord_59/election_pres_2022/20230611/
+[2023-06-11 23:15:18,404] {python.py:173} INFO - Done. Returned value was: None
+[2023-06-11 23:15:18,414] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=project_dag, task_id=nord_source_to_raw, execution_date=20230611T211432, start_date=20230611T211518, end_date=20230611T211518
+[2023-06-11 23:15:18,443] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-06-11 23:15:18,459] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check
