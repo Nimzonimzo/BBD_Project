@@ -1,6 +1,6 @@
 # French_Presidential_Election_Study
 
-School project focusing on the French Presidential Election of 2022.
+School project focusing on the French Presidential Election of 2022 (With Sallymayu).
 
 ## Overview
 This project aims to conduct a comprehensive study on the French Presidential Election, 2022, leveraging two APIs to gather relevant data.
